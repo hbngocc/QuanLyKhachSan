@@ -13,3 +13,6 @@
 - C# Windows form (.NET Framework)
 - SQL Server
 - Visual Studio 2022
+
+## Hướng dẫn 
+
