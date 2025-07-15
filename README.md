@@ -14,5 +14,4 @@
 - SQL Server
 - Visual Studio 2022
 
-## Hướng dẫn 
 
